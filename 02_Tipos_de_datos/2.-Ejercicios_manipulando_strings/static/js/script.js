@@ -79,7 +79,7 @@ let numeroCasaTexto = String(numeroCasa);
 console.log(`Mi numero de casa ${numeroCasaTexto}
 es de tipo: ${typeof numeroCasaTexto} tiene 
 ${numeroCasaTexto.length} letras`);
-//Gabriel +1d
+
 // 7️⃣ Identificación personal extendida
 // Crea las variables:
 // nombre: Diego
@@ -95,7 +95,7 @@ console.log(`El nombre es: ${name} y el apellido es: ${lastname}
     \n el nombre completo tiene: ${nombreCompleto.length} 
     caracteres `.toUpperCase());
 
-//Diego V +1 Axel +1 
+//Diego V +1
 // 8️⃣ Verificación de contenido
 // Crea la variable:
 // frase: Hoy aprenderemos sobre strings
